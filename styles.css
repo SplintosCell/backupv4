@@ -1,0 +1,19 @@
+/** hover on navbar elements**/
+ .navbar-dark .navbar-nav .nav-link:hover {
+            background-color:gainsboro;
+        }
+/**adaptation of caroussel**/
+.carousel-inner img {
+      width: 100%;
+      height: auto;
+  }
+
+  .circular img {
+    border-radius: 50%;
+    border: 5px solid gray;
+  }
+  .border-gray {
+    border-color: gray !important;
+  }
+/**images 3 per row**/
+
